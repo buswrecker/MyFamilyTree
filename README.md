@@ -24,7 +24,7 @@ Import the `*.aq` file in the FamilyTree Folder into the software. If you're not
 
 There are a few ways to download this repository
 - Zip Download - Download [Here]()
-- Git Clone - For more advanced users. `git clone `
+- Git Clone - For more advanced users. `git clone https://github.com/buswrecker/MyFamilyTree.git`
 
 ### Viewing the Family Tree
 
