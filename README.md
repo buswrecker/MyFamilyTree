@@ -22,14 +22,14 @@ Import the `*.aq` file in the FamilyTree Folder into the software. If you're not
 
 ### How to Clone / Use this Repository
 
-There are a few ways to download this repository
+There are a few ways to download this repository    
 - Zip Download - Download [Here]()
 - Git Clone - For more advanced users. `git clone https://github.com/buswrecker/MyFamilyTree.git`
 
 ### Viewing the Family Tree
 
 - Descendants of Tan Swee Sin (1804) - Please click [here](Reports/DescendantsOfTanSweeSin.pdf)
-- Descendants of Chang Seng Long (1880) - Please click [here](Reports/DescendantsOfchangSengLong.pdf)
+- Descendants of Chang Sin Hin, Chang Seng Long's father (before 1880) - Please click [here](Reports/DescendantsOfChangSinHin.pdf)
 - Descendants of Lee Lai Moh (Unknown) - Please click [here](Reports/DescendantsOfLeeLaiMoh.pdf)
 - Descendants Of Khaw Sin Cheow (unknown) - Please Click [here](Reports/DescendansOfKhawSinCheow.pdf)
 
